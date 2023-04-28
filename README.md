@@ -178,10 +178,12 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 
 ## Output screen shots of proteus  :
- 
+ ![lingeswaran_exp-04](https://user-images.githubusercontent.com/119103865/235109531-38670235-a208-475e-8616-bbbb5e6f4a4a.jpg)
+
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- 
+ ![image](https://user-images.githubusercontent.com/119103865/235109800-2e1b80d8-22e6-4bcd-914d-68b93687649f.png)
+
  
 ## Result :
 Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified.
